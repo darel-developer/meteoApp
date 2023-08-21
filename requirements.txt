@@ -1,0 +1,7 @@
+tkinter
+geopy
+timezonefinder
+datetime
+googletrans
+requests
+pytz
